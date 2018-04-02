@@ -1,5 +1,6 @@
 #import "CodePush.h"
-#import "SSZipArchive.h"
+// #import "SSZipArchive.h"
+#import "SSZipArchive/SSZipArchive.h"
 
 @implementation CodePushPackage
 
